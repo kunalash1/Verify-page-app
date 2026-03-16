@@ -256,7 +256,7 @@ function VerifyQR() {
             cursor: "pointer"
           }}
         >
-          Open Wallet for Verification
+          Deeplink
         </button>
 
       </div>
